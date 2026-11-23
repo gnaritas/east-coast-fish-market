@@ -193,6 +193,7 @@ img,svg{max-width:100%}
 .util h1{font-size:clamp(30px,5vw,46px)}
 .util p{color:var(--inkdim);margin-top:14px;font-size:16.5px}
 .util .cta-row{justify-content:center}
+.backlinks{display:flex;flex-wrap:wrap;gap:14px;justify-content:center;margin-top:26px}
 
 /* ---- footer ---- */
 .foot{background:var(--ink);color:var(--chalk);padding:54px 0 26px;margin-top:64px;border-top:4px solid var(--red)}
