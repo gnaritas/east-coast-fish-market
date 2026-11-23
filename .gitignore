@@ -2,7 +2,7 @@ node_modules/
 .railway/
 shots/
 pitch-params.json
-pitch-draft.md
+pitch*.md
 send-envelope.json
 send_pitch.py
 send_fixup.py
