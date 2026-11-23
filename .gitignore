@@ -1,0 +1,11 @@
+node_modules/
+.railway/
+shots/
+pitch-params.json
+pitch-draft.md
+send-envelope.json
+send_pitch.py
+send_fixup.py
+DEPLOY.md
+PITCH.md
+*.eml
